@@ -95,7 +95,7 @@
 
 <div align="center">
   <h3>Currently learning:</h3>
-  <p>Data Structures & Algorithms, advanced React patterns, and cloud deployments</p>
+  <p>Data Structures & Algorithms, advanced React patterns, and Responsive Web Design</p>
 </div>
 
 ###
