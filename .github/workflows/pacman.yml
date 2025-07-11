@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs daily at midnight
   push:
     branches: [main]
   workflow_dispatch:
@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game (Pac-Man)
+      - name: Generate Pac-Man Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: MrIsimael
@@ -23,11 +23,11 @@ jobs:
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
           mode: pacman
-          color_snake: '#39D353'         # Pac-Man color (keep green or customize)
-          background_color: '#0D1117'    # GitHub dark background
-          color_grid: '#161B22'          # GitHub dark grid
+          color_snake: '#39D353'          # Pac-Man color (GitHub green)
+          background_color: '#0D1117'     # GitHub dark mode background
+          color_grid: '#161B22'           # GitHub dark mode contribution grid
 
-      - name: Push SVGs to the output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
