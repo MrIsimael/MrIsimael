@@ -15,11 +15,11 @@
 ###
 
 <div align="center">
-  <p>🎓 Software Engineer | Tutor | Lifelong Learner | YouTuber 🎥</p>
+  <p>🎓 Software Developer | Web Developer | Lifelong Learner | YouTuber 🎥</p>
   <p>
     Passionate about building impactful web and mobile apps using <b>TypeScript, React, Angular, C#</b>, and more.<br>
     Currently diving deeper into <i>Data Structures & Algorithms</i> and building real-world projects.<br>
-    I love sharing knowledge as a tutor and on my YouTube channel <a href="https://www.youtube.com/@MyProgrammerMind" target="_blank">MyProgrammerMind</a>.
+    I love sharing knowledge as a programmer on my YouTube channel <em>MyProgrammerMind</em>.
   </p>
 </div>
 
@@ -114,9 +114,7 @@
 <div align="center">
   <h3>Contact Me</h3>
   <p>
-    📧 Email: <a href="mailto:isimael.zabadia@example.com">isimael.zabadia@example.com</a> (replace with your actual email)<br>
-    💬 LinkedIn: <a href="https://www.linkedin.com/in/ishu-zaba/" target="_blank">ishu-zaba</a><br>
-    🐦 Twitter: <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a> (if you have one)
+    📧 Email: <a href="mailto:isimael.zabadia@example.com">isimael.zabadia@example.com</a> <br>
   </p>
 </div>
 
