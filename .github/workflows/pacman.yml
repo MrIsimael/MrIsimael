@@ -2,35 +2,32 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [main]
+    - cron: "0 0 * * *"  # every day at midnight
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man Contribution Graph
-        uses: Platane/snk@v3
+      - name: Generate pacman graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MrIsimael
           outputs: |
-            ./output/pacman-contribution-graph.svg
-            ./output/pacman-contribution-graph-dark.svg
-          mode: pacman                      # << THIS is what enables Pac-Man
-          color_snake: '#39D353'            # Pac-Man color
-          background_color: '#0D1117'       # GitHub dark mode background
-          color_grid: '#161B22'             # GitHub dark grid color
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg
+          # the pacman preset is now available via custom snake.yaml (see step 2)
 
-      - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push SVG
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "update pacman contribution graph"
+          add: "output/*.svg"
