@@ -114,7 +114,7 @@
 <div align="center">
   <h3>Contact Me</h3>
   <p>
-    📧 Email: <a href="mailto:isimael.zabadia@example.com">isimael.zabadia@example.com</a> <br>
+    📧 Email: <a href="mailto:mrisimaelzabadia@gmail.com">mrisimaelzabadia@gmail.com</a> <br>
   </p>
 </div>
 
