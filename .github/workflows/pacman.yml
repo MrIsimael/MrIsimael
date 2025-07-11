@@ -2,7 +2,7 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 * * *"
   push:
     branches: [main]
   workflow_dispatch:
@@ -22,12 +22,12 @@ jobs:
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
-          mode: pacman
-          color_snake: '#39D353'          # Pac-Man color (GitHub green)
-          background_color: '#0D1117'     # GitHub dark mode background
-          color_grid: '#161B22'           # GitHub dark mode contribution grid
+          mode: pacman                      # << THIS is what enables Pac-Man
+          color_snake: '#39D353'            # Pac-Man color
+          background_color: '#0D1117'       # GitHub dark mode background
+          color_grid: '#161B22'             # GitHub dark grid color
 
-      - name: Push SVG to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
