@@ -92,3 +92,38 @@
 </div>
 
 ###
+
+<div align="center">
+  <h3>Currently learning:</h3>
+  <p>Data Structures & Algorithms, advanced React patterns, and cloud deployments</p>
+</div>
+
+###
+
+<div align="center">
+  <h3>What I’m building now:</h3>
+  <p>
+    - A student attendance system for religious boarding schools to enhance accountability and ease of tracking.<br>
+    - A comprehensive disaster relief management web application using C# and Azure for the Gift of the Givers Foundation.<br>
+    - My personal portfolio website and tutorials on YouTube to share my learning journey.
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <h3>Contact Me</h3>
+  <p>
+    📧 Email: <a href="mailto:isimael.zabadia@example.com">isimael.zabadia@example.com</a> (replace with your actual email)<br>
+    💬 LinkedIn: <a href="https://www.linkedin.com/in/ishu-zaba/" target="_blank">ishu-zaba</a><br>
+    🐦 Twitter: <a href="https://twitter.com/yourhandle" target="_blank">@yourhandle</a> (if you have one)
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <em>“Success is the sum of small efforts, repeated day in and day out.” – Robert Collier</em>
+</div>
+
+###
