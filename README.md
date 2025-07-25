@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋I'm Isimael Zabadia</h1>
+<h1 align="center">Hi there 👋I'm Isimael Zabadia</h1>
 
 ###
 
@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <em>“Success is the sum of small efforts, repeated day in and day out.” – Robert Collier</em>
+  <em>“Without education, you’re not going anywhere in this world.” – Malcom X</em>
 </div>
 
 ###
