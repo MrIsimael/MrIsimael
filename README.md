@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <em>“Without education, you’re not going anywhere in this world.” – Malcom X</em>
+  <em>“Be not afraid of growing slowly, be afraid only of standing still.” – Chinese Proverb</em>
 </div>
 
 ###
