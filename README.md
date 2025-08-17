@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <em>“Be not afraid of growing slowly, be afraid only of standing still.” – Chinese Proverb</em>
+  <em>"The only way to do great work is to love what you do." - Steve Jobs </em>
 </div>
 
 ###
