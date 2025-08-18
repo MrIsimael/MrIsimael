@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋I'm Isimael Zabadia</h1>
+<h1 align="center">Hey there 👋I'm Isimael Zabadia</h1>
 
 ###
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   <h3>Currently learning:</h3>
-  <p>Data Structures & Algorithms, advanced React patterns, and Responsive Web Design</p>
+  <p>Data Structures & Algorithms and Responsive Web Design</p>
 </div>
 
 ###
