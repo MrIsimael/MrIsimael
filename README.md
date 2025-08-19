@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋I'm Isimael Zabadia</h1>
+<h1 align="center">Hi there 👋I'm Isimael Zabadia</h1>
 
 ###
 
@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <em>"The only way to do great work is to love what you do." - Steve Jobs </em>
+  <em>"Winning isn't loyal" - Tim Grover </em>
 </div>
 
 ###
