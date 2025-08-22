@@ -18,8 +18,8 @@
   <p>🎓 Software Developer | Web Developer | Lifelong Learner | YouTuber 🎥</p>
   <p>
     Passionate about building impactful web and mobile apps using <b>TypeScript, React, Angular, C#</b>, and more.<br>
-    Currently diving deeper into <i>Data Structures & Algorithms</i> and building real-world projects.<br>
-    I love sharing knowledge as a programmer on my YouTube channel <em>MyProgrammerMind</em>.
+    Currently mastering <i>Data Structures & Algorithms in JavaScript</i> and strengthening full-stack skills with <b>React, Node, and MongoDB</b>.<br>
+    I love sharing knowledge on my YouTube channel <em>MyProgrammerMind</em>.
   </p>
 </div>
 
@@ -91,25 +91,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrIsimael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <h3>Currently learning:</h3>
-  <p>Data Structures & Algorithms and Responsive Web Design</p>
-</div>
+### 📚 Currently Learning
+- Data Structures & Algorithms in **JavaScript**  
+- Full-Stack Development with **React, Node.js, MongoDB**  
+- Advanced **Responsive Web Design**  
 
-###
+---
 
-<div align="center">
-  <h3>What I’m building now:</h3>
-  <p>
-    - A student attendance system for religious boarding schools to enhance accountability and ease of tracking.<br>
-    - A comprehensive disaster relief management web application using C# and Azure for the Gift of the Givers Foundation.<br>
-    - My personal portfolio website and tutorials on YouTube to share my learning journey.
-  </p>
-</div>
+### 🚀 What I’m Building
+- 🕌 **Zeenatul-Islam Masjid Website** – A community platform showing prayer times, programs, gallery, weekly Jummah speakers, recordings, donations, and more.
+- 🖥️ My personal portfolio website and programming tutorials on **YouTube**.  
 
-###
+---
+
+### 🎓 Courses in Progress
+- **The Web Developer Bootcamp 2025 (Udemy)**  
+  Learning **React, Node.js, MongoDB, Express, Security, REST APIs, Authentication, and Full-Stack apps** with 74+ hours of content and 13+ projects.  
+
+---
 
 <div align="center">
   <h3>Contact Me</h3>
