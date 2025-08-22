@@ -23,7 +23,9 @@
   </p>
 </div>
 
-###
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
