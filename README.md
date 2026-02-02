@@ -18,10 +18,10 @@
   <p>🎓 Software Developer | Web Designer | Lifelong Learner | UI/UX Enthusiast</p>
   <p>
     I build elegant, responsive, and meaningful digital experiences for the web.  
-    Skilled in <b>React, TypeScript, C#, SQL</b> and passionate about solving real problems with clean design and robust code. :contentReference[oaicite:1]{index=1}
+    Skilled in <b>React, TypeScript, C#, SQL</b> and passionate about solving real problems with clean design and robust code.
   </p>
   <p>
-    I’m currently pursuing an <i>Honours in Computer Science</i>, expanding my full-stack chops, and sharing insights through portfolio work and tutorials. :contentReference[oaicite:2]{index=2}
+    I’m currently pursuing an <i>Honours in Computer Science</i>, expanding my full-stack chops, and sharing insights through portfolio work and tutorials.
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 ---
 
 ### 💼 What I Do
-I’m a **full-stack developer and visual problem solver** who blends logic and creative design. I build interfaces that delight users, backends that scale, and tools that empower teams and communities. :contentReference[oaicite:3]{index=3}
+I’m a **full-stack developer and visual problem solver** who blends logic and creative design. I build interfaces that delight users, backends that scale, and tools that empower teams and communities.
 
 ---
 
@@ -88,18 +88,18 @@ I’m a **full-stack developer and visual problem solver** who blends logic and 
 - Full Stack Development with **React, C#, and TypeScript**  
 - Responsive UI & UX Design  
 - Database design and query optimization  
-- UI/UX Prototyping with **Figma** :contentReference[oaicite:4]{index=4}
+- UI/UX Prototyping with **Figma**
 
 ---
 
 ### 🔨 Projects I’ve Built
-Here’s a snapshot of creative work and practical apps from my portfolio: :contentReference[oaicite:5]{index=5}
+Here’s a snapshot of creative work and practical apps from my portfolio:
 - **MyCollect App Design** – UI/UX concept project  
 - **Chipify App Design** – Visual app interface  
 - **Buyuk Chamlija App** – Mobile app design showcase  
 - **KK Curtain Design Project** – Web solution for a client  
 - **Buyuk Chamlija Admin Panel** – Web dashboard  
-- **AfroFaaliyet Dashboard** – Full dashboard experience :contentReference[oaicite:6]{index=6}
+- **AfroFaaliyet Dashboard** – Full dashboard experience
 
 ---
 
@@ -108,7 +108,7 @@ Here’s a snapshot of creative work and practical apps from my portfolio: :cont
 - **Student Tutor – Rosebank College** (08/2024 – 11/2024)  
 - **Software Developer – UICT (Contract)** (2025 – Present)  
 - **Full-Stack Bootcamp – Udemy**  
-- **IT in Software Development Diploma – Rosebank College** :contentReference[oaicite:7]{index=7}
+- **IT in Software Development Diploma – Rosebank College**
 
 ---
 
