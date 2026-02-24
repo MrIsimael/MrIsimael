@@ -99,7 +99,7 @@ Here’s a snapshot of creative work and practical apps from my portfolio:
 - **Buyuk Chamlija App** – Mobile app design showcase  
 - **KK Curtain Design Project** – Web solution for a client  
 - **Buyuk Chamlija Admin Panel** – Web dashboard  
-- **AfroFaaliyet Dashboard** – Full dashboard experience
+- **AfroFaaliyet App Dashboard** – Full dashboard experience
 
 ---
 
