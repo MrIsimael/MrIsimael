@@ -15,17 +15,18 @@
 ###
 
 <div align="center">
-  <p>🎓 Software Developer | Web Designer | Lifelong Learner | UI/UX Enthusiast</p>
+  <p>🎓 Full-Stack Mobile & Web Developer | Honours in Computer Science Student</p>
   <p>
-    I build elegant, responsive, and meaningful digital experiences for the web.  
-    Skilled in <b>React, TypeScript, C#, SQL</b> and passionate about solving real problems with clean design and robust code.
+    <b>Published iOS & Android Applications • React Native • React • TypeScript • C# • SQL</b>
   </p>
   <p>
-    I’m currently pursuing an <i>Honours in Computer Science</i>, expanding my full-stack chops, and sharing insights through portfolio work and tutorials.
+    I build production-ready systems from database architecture to deployment. I specialize in crafting elegant, responsive, and meaningful digital experiences, blending robust backend logic with clean, high-end design.
   </p>
 </div>
 
 ---
+
+<h3 align="center">🚀 Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -42,6 +43,8 @@
 </div>
 
 ###
+
+<h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ishu-zaba/" target="_blank">
@@ -70,8 +73,58 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrIsimael/MrIsimael/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
+### 💼 What I Do
+- 📱 **Develop and deploy** cross-platform mobile applications using **React Native (Expo)**
+- 🌐 **Build modern web applications** and administration systems
+- 🔐 **Design secure authentication** and backend architectures
+- 🗄️ **Create scalable database solutions** and APIs
+- ☁️ **Manage cloud services**, deployment pipelines, and production releases
+- 🎨 **Design intuitive user experiences** with **Figma**
+
+---
+
+### 🏆 Career Highlights
+- 🚀 **Published applications** on both Apple App Store and Google Play Store
+- 🏢 **Built full-stack systems** used by real organizations
+- 🛠️ **Developed mobile apps**, admin dashboards, and support platforms
+- 🔄 **Managed production deployments** and release pipelines
+- 📊 **Designed and maintained** shared database architectures
+- 👨‍🏫 **SQL Tutor** at Rosebank College
+
+---
+
+### 🔨 Featured Projects
+
+* **Buyuk Chamlija Platform**  
+  Cross-platform mobile application and supporting administration system.  
+  *Tech Stack:* `React Native` • `TypeScript` • `Firebase` • `SQL`  
+
+* **Afrofaaliyet Platform**  
+  Full-stack mobile and web ecosystem with backend integrations and administration tools.  
+  *Tech Stack:* `React` • `TypeScript` • `Firebase` • `SQL`  
+
+* **KK Curtain Design**  
+  Client-focused website delivering responsive design and improved online presence.  
+  *Tech Stack:* `React` • `TypeScript` • `CSS`  
+
+* **MyCollect**  
+  Collection management application focused on user experience and clean design.  
+  *Tech Stack:* `React` • `TypeScript`  
+
+---
+
+### 📚 Education & Experience
+- 🎓 **Honours in Computer Science** *(In Progress)*  
+- 💼 **Full-Stack Mobile & Web Developer** — UICT  
+- 👨‍🏫 **SQL Database Tutor** — Rosebank College  
+- 🎓 **Diploma in Information Technology** — Rosebank College  
+- 📖 **The Web Developer Bootcamp** — Udemy  
+
+---
+
+### 📈 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrIsimael&show_icons=true&theme=dracula" height="150"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrIsimael&layout=compact&theme=dracula" height="150"  />
@@ -79,43 +132,12 @@
 
 ---
 
-### 💼 What I Do
-I’m a **full-stack developer and visual problem solver** who blends logic and creative design. I build interfaces that delight users, backends that scale, and tools that empower teams and communities.
-
----
-
-### 🚀 Skills I’m Sharpening
-- Full Stack Development with **React, C#, and TypeScript**  
-- Responsive UI & UX Design  
-- Database design and query optimization  
-- UI/UX Prototyping with **Figma**
-
----
-
-### 🔨 Projects I’ve Built
-Here’s a snapshot of creative work and practical apps from my portfolio:
-- **MyCollect App Design** – UI/UX concept project  
-- **Chipify App Design** – Visual app interface  
-- **Buyuk Chamlija App** – Mobile app design showcase  
-- **KK Curtain Design Project** – Web solution for a client  
-- **Buyuk Chamlija Admin Panel** – Web dashboard  
-- **AfroFaaliyet App Dashboard** – Full dashboard experience
-
----
-
-### 📚 Education & Experience
-- **Honours in Computer Science** (in progress)  
-- **Student Tutor – Rosebank College** (08/2024 – 11/2024)  
-- **Software Developer – UICT (Contract)** (2025 – Present)  
-- **Full-Stack Bootcamp – Udemy**  
-- **IT in Software Development Diploma – Rosebank College**
-
----
-
 <div align="center">
   📬 **Contact Me**  
-  Email: <a href="mailto:mrisimaelzabadia@gmail.com">mrisimaelzabadia@gmail.com</a>  
-  Portfolio: https://mrisimael.co.za/
+  
+  📧 Email: <a href="mailto:mrisimaelzabadia@gmail.com">mrisimaelzabadia@gmail.com</a>  
+  🌐 Portfolio: https://mrisimael.co.za  
+  💼 LinkedIn: https://www.linkedin.com/in/ishu-zaba/  
 </div>
 
 ###
